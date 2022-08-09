@@ -1,4 +1,4 @@
-package com.example.springbootmongodb.account;
+package com.pm430.springbootmongodb.account;
 
 import org.springframework.data.annotation.Id;
 import org.springframework.data.mongodb.core.mapping.Document;

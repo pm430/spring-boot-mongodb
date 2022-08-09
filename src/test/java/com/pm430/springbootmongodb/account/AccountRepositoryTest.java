@@ -1,4 +1,4 @@
-package com.example.springbootmongodb.account;
+package com.pm430.springbootmongodb.account;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

@@ -1,7 +1,7 @@
-package com.example.springbootmongodb;
+package com.pm430.springbootmongodb;
 
-import com.example.springbootmongodb.account.Account;
-import com.example.springbootmongodb.account.AccountRepository;
+import com.pm430.springbootmongodb.account.Account;
+import com.pm430.springbootmongodb.account.AccountRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.ApplicationRunner;
 import org.springframework.boot.SpringApplication;
